@@ -1,0 +1,6 @@
+shop
+room
+day
+classes
+car
+clayton volvo

@@ -1,0 +1,9 @@
+Automotive_technologies
+Auto_parts
+Automotive_styling_features
+Vehicle_parts
+Automotive_accessories
+Automotive_part_retailers
+Automotive_body_parts
+Car_windows
+Auto_parts_suppliers

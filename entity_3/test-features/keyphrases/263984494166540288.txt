@@ -1,0 +1,4 @@
+knight
+armor
+vampire
+prince

@@ -1,0 +1,7 @@
+day
+struts
+bearings
+sway link arms
+oil
+tie rod
+cars

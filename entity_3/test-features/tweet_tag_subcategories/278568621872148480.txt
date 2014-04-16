@@ -1,0 +1,15 @@
+Service_companies
+Parties
+Retailing
+Brands_by_product_type
+Retailers
+Party_stores
+Social_events
+Standards_by_type
+Climate
+Calendars
+Measurement
+Units_of_measurement
+Seasons
+Units_of_time
+Climatology

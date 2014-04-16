@@ -1,0 +1,10 @@
+Volvo Aero bought by GKN
+buy###6
+agrees###3
+said###1
+is###1
+has bought###1
+has acquired###1
+following###1
+buys###1
+acquired###1

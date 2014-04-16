@@ -1,0 +1,7 @@
+truck
+rear
+view
+mirror
+right
+side
+cb

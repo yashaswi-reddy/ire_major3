@@ -1,0 +1,5 @@
+want
+#win
+win
+go
+register

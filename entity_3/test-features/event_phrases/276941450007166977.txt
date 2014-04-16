@@ -1,0 +1,2 @@
+receives
+has received

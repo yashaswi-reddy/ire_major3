@@ -1,0 +1,8 @@
+Bicycle
+Driving
+Van
+Pedestrian
+World Health Organization
+Level crossing
+Front-wheel drive
+Automobile

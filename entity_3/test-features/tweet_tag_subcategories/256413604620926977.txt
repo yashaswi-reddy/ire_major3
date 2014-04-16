@@ -1,0 +1,17 @@
+Pedestrian_infrastructure
+Garment_industry
+Decorative_arts
+Clothing
+Structural_engineering
+Rugs_and_carpets
+Materials
+Arts_and_crafts
+Home
+Floors
+Textiles
+Furniture
+Architectural_elements
+Crafts
+Art_media
+Textile_arts
+Furnishings

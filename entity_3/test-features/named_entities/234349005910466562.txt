@@ -1,0 +1,8 @@
+v70 2001
+germantown
+tn
+motor
+l
+turbo
+wagon
+ta

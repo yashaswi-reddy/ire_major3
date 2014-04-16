@@ -1,0 +1,7 @@
+Real_estate
+Property
+Land_law
+Architecture
+Service_industries
+Building_technology
+Construction

@@ -1,0 +1,5 @@
+lady
+size
+window
+self
+shake

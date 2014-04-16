@@ -1,0 +1,13 @@
+Standards_by_type
+Climate
+Calendars
+Measurement
+Units_of_measurement
+Seasons
+Units_of_time
+Climatology
+Sports_competitions
+Sports_events
+Terminology_used_in_multiple_sports
+Championships
+Competitions

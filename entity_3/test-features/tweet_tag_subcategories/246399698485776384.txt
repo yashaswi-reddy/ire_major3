@@ -1,0 +1,6 @@
+Algebra
+Variables
+Placeholder_names
+Programming_language_concepts
+Programming_language_topics
+Variable_(computer_programming)

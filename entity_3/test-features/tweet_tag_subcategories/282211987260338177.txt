@@ -1,0 +1,15 @@
+Land_transport
+Wheeled_vehicles
+Automobiles
+Land_vehicles
+Vehicles_by_media
+2009_in_spaceflight
+2009_in_science
+Spacecraft_by_year_of_reentry
+Spacecraft_which_reentered_in_2009
+Years_in_spaceflight
+Artificial_satellites_formerly_orbiting_Earth
+Edwards_Air_Force_Base
+Hubble_Space_Telescope_servicing_missions
+2009_in_transport
+Space_Shuttle_missions

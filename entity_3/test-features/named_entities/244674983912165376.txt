@@ -1,0 +1,5 @@
+fs
+s60
+t
+ping
+dm

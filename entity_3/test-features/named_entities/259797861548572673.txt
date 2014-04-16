@@ -1,0 +1,7 @@
+truck
+air
+compressor
+reman
+|
+tire
+inflator

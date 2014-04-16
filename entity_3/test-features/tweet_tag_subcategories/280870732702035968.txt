@@ -1,0 +1,13 @@
+Electrical_engineering
+Vehicle_parts
+Equipment
+Manufactured_goods
+Light_sources
+Light
+Electrical_components
+Lighting
+Automotive_safety_technologies
+Components
+Glass_applications
+Glass
+Lamps

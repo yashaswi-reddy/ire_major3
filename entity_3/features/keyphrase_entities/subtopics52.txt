@@ -1,0 +1,18 @@
+Intersection support
+volvo###2
+volvo car###1
+shapes###1
+safety system###1
+report###1
+radar###1
+moves###1
+moron###1
+future###1
+elk###1
+driver###1
+deer###1
+crash impact###1
+collisions###1
+car###1
+animals###1
+#volvo safety feature###1

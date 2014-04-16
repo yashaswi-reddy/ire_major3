@@ -1,0 +1,10 @@
+Clothing
+Human_head_and_neck
+Clothing_by_type
+Headgear
+Parts_of_clothing
+Fashion_accessories
+Human_anatomy
+Categories_by_type
+Headphones
+Fashion

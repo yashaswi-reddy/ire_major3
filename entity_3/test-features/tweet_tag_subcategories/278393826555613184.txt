@@ -1,0 +1,13 @@
+Astronomical_sub-disciplines
+Planetary_science
+Astronomical_objects
+Spaceflight
+Planets
+Terrestrial_planets
+Habitable_zone_planets
+Planemos
+Geology
+Substellar_objects
+Earth
+Astrobiology
+Geography

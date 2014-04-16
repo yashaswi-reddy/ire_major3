@@ -1,0 +1,7 @@
+User_interfaces
+Graphical_user_interfaces
+System_software
+PostScript
+Software
+Sun_Microsystems_software
+Windowing_systems

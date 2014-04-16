@@ -1,0 +1,6 @@
+cars
+beetle
+panel vans
+pajero
+mitsubishi
+stickers

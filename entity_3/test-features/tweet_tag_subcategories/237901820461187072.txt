@@ -1,0 +1,9 @@
+Gender
+Female_mammals
+People
+Females
+Women
+People_by_gender
+Mammals
+Sex
+Terms_for_females

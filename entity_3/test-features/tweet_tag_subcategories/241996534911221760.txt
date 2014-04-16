@@ -1,0 +1,15 @@
+Hardlines
+Film_and_video_terminology
+Manufactured_goods
+Equipment
+Packaging
+Bulk_material_handling
+Portable_tools
+Technology_by_type
+Mathematical_tools
+Tools
+Land_transport
+Wheeled_vehicles
+Automobiles
+Land_vehicles
+Vehicles_by_media

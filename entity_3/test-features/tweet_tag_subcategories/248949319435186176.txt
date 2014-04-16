@@ -1,0 +1,7 @@
+Medical_signs
+Medical_terminology
+Diseases_and_disorders
+Symptoms_and_signs:_General
+Symptoms
+Medical_diagnosis
+Headaches

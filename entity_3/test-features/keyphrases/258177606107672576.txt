@@ -1,0 +1,4 @@
+director rikard sderberg
+group
+gkn
+chalmers

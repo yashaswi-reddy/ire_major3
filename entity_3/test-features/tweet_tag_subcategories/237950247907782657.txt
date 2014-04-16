@@ -1,0 +1,8 @@
+Technology_systems
+Industry
+Transport
+Technology
+Industries
+Technology_by_type
+Economic_systems
+Categories_by_type

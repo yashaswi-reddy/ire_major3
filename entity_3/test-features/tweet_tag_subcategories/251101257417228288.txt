@@ -1,0 +1,12 @@
+Human_appearance
+Face
+Human_head_and_neck
+Physiognomy
+Laughter
+Digestive_system
+Mouth
+Facial_features
+Facial_expressions
+Organ_systems
+Human_anatomy
+Gastroenterology

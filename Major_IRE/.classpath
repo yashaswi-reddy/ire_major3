@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/yashaswi/jars/lucene-analyzers-common-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/yashaswi/jars/lucene-core-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/home/yashaswi/jars/lucene-queryparser-4.2.1.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/ark-tweet-nlp-0.3.2.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/commons-compress-1.2.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/gson-1.1.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/gson-1.7.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/jsoup-1.7.3.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/mongo-2.10.1.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/jars/org.json-20120521.jar"/>
+	<classpathentry kind="lib" path="/media/82CC3BADCC3B9A7D/major_project/IRData/tagme.acubelab/lib/snowball.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

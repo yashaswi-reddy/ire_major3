@@ -1,0 +1,7 @@
+Works_by_musician
+Songs
+2007_songs
+Songs_by_songwriter
+Songs_written_by_Tommy_Torres
+Songs_written_by_Ricardo_Arjona
+Ricardo_Arjona_songs

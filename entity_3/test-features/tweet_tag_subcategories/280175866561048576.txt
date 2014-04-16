@@ -1,0 +1,13 @@
+Christmas
+Quarter_days
+Christian_events
+Christian_liturgy,_rites,_and_worship_services
+Christian_festivals_and_holy_days
+Religious_festivals
+Liturgical_calendar
+Religious_holidays
+Land_transport
+Wheeled_vehicles
+Automobiles
+Land_vehicles
+Vehicles_by_media

@@ -1,0 +1,7 @@
+Semantic_units
+Parts_of_speech
+Profanity
+Syntactic_categories
+Interjections
+Feces
+Words

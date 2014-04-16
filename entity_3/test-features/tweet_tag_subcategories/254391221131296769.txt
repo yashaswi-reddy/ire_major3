@@ -1,0 +1,14 @@
+Hardlines
+Manufactured_goods
+Bags_(fashion)
+Living_arrangements
+Home
+Mathematical_tools
+Society
+Domestic_implements
+Technology_by_type
+Domestic_life
+Household_behavior_and_family_economics
+Tools
+Equipment
+Personal_life

@@ -1,0 +1,5 @@
+Disasters
+Explosions
+Hazards
+Man-made_disasters
+Human_behavior

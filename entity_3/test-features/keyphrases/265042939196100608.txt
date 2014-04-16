@@ -1,0 +1,4 @@
+nokia
+brand
+car
+phone

@@ -1,0 +1,6 @@
+union
+stockholm
+reuters
+swedish carmaker
+chinese
+zh

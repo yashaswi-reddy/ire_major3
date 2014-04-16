@@ -1,0 +1,16 @@
+Land_transport
+Wheeled_vehicles
+Automobiles
+Land_vehicles
+Vehicles_by_media
+Companies_by_industry
+Supply_chain_management
+Sales
+Economics_of_service_industries
+Industries
+Wholesalers
+Commercial_item_transport_and_distribution
+Companies
+Marketing
+Distribution,_retailing,_and_wholesaling
+Categories_by_topic

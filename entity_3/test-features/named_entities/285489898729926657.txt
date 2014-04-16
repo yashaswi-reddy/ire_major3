@@ -1,0 +1,5 @@
+buyers
+highest
+credit
+score
+volvo bran

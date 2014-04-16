@@ -1,0 +1,7 @@
+Green Car of the Year
+year###1
+volvo c30 electric wins###1
+test###1
+china###1
+car###1
+autoblog###1
